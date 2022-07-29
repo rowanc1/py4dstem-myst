@@ -1,0 +1,17 @@
+version: 1
+project:
+  title: ACOM Correlation
+site:
+  title: ACOM Correlation
+  projects:
+    - path: .
+      slug: acom
+  nav: []
+  actions:
+    - title: Learn More
+      url: https://curvenote.com/docs/web
+  domains:
+    - rowanc1-py4dstem_paper.curve.space
+  twitter: rowancockett
+  logo: public/logo.svg
+  logoText: ACOM Correlation
